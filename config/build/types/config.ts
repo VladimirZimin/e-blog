@@ -1,4 +1,4 @@
-export type TMode = "production" | "development";
+export type TMode = 'production' | 'development';
 
 export interface BuildPaths {
   entry: string;

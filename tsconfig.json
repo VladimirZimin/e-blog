@@ -39,7 +39,7 @@
   //  ts-node не поддерживает никакой синтаксис модулей, кроме commonjs. Так как мы используем "module": "ESNext", будет ошибка
   "ts-node": {
     "compilerOptions": {
-      "module": "CommonJS"
+      "module": "CommonJS",
     }
   },
 }
