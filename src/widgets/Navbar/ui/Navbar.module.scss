@@ -7,13 +7,12 @@
 
   .links {
     display: flex;
+    gap: 20px;
     align-items: center;
     justify-content: flex-end;
-    gap: 20px;
+    height: 100%;
     margin: 0;
     margin-right: 15px;
     padding: 0;
-    height: 100%;
   }
 }
-
